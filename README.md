@@ -1,4 +1,4 @@
-# Installationseinleitung
+# Installationsanleitung
 
 - git clone
 - npm install
